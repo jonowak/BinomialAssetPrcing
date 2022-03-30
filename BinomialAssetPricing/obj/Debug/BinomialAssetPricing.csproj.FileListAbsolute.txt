@@ -1,0 +1,6 @@
+c:\users\joanna\documents\visual studio 2012\Projects\BinomialAssetPricing\BinomialAssetPricing\bin\Debug\BinomialAssetPricing.exe.config
+c:\users\joanna\documents\visual studio 2012\Projects\BinomialAssetPricing\BinomialAssetPricing\bin\Debug\BinomialAssetPricing.exe
+c:\users\joanna\documents\visual studio 2012\Projects\BinomialAssetPricing\BinomialAssetPricing\bin\Debug\BinomialAssetPricing.pdb
+c:\users\joanna\documents\visual studio 2012\Projects\BinomialAssetPricing\BinomialAssetPricing\obj\Debug\BinomialAssetPricing.csprojResolveAssemblyReference.cache
+c:\users\joanna\documents\visual studio 2012\Projects\BinomialAssetPricing\BinomialAssetPricing\obj\Debug\BinomialAssetPricing.exe
+c:\users\joanna\documents\visual studio 2012\Projects\BinomialAssetPricing\BinomialAssetPricing\obj\Debug\BinomialAssetPricing.pdb
